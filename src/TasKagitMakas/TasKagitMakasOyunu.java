@@ -7,9 +7,6 @@ import java.util.Scanner;
 
 public class TasKagitMakasOyunu {
 public static void main(String[] args) {
-	
-	
-	
 	// tas   > makas tas=0 makas=1 kagit=2
 	// makas > kagit
 	// kagit > tas
@@ -26,6 +23,7 @@ public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
 	
 	System.out.println("Tas Kagit Makas oyununa hos geldiniz :) ");
+	System.out.println("Bilgisayar zorluk derecesi = Normal");
 	System.out.println("____________________________________________");
 	System.out.println();
 	
