@@ -7,6 +7,9 @@ import java.util.Scanner;
 
 public class TasKagitMakasOyunu {
 public static void main(String[] args) {
+	
+	
+	
 	// tas   > makas tas=0 makas=1 kagit=2
 	// makas > kagit
 	// kagit > tas
@@ -21,6 +24,10 @@ public static void main(String[] args) {
 //	elemanlar.add("Kagit");
 //	
 	Scanner scan = new Scanner(System.in);
+	
+	System.out.println("Tas Kagit Makas oyununa hos geldiniz :) ");
+	System.out.println("____________________________________________");
+	System.out.println();
 	
 	while (numberOfMyWin<gameOver && numberOfMyPcWin<gameOver) {
 		System.out.println("Tas secmek icin= 0\nMakas secmek icin= 1 \nKagit secmek icin= 2 \nSeciniz");
