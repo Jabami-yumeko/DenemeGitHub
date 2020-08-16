@@ -24,6 +24,7 @@ public static void main(String[] args) {
 	
 	System.out.println("Tas Kagit Makas oyununa hos geldiniz :) ");
 	System.out.println("Bilgisayar zorluk derecesi = Normal");
+	System.out.println("Iyi Eglenceler !");
 	System.out.println("____________________________________________");
 	System.out.println();
 	
